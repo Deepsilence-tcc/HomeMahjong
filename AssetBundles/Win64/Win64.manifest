@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 196572354
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: variants/myassets.hd
+      Dependencies: {}
+    Info_1:
+      Name: variants/myassets.sd
+      Dependencies: {}
+    Info_2:
+      Name: tanks-albedo.desert-hd
+      Dependencies: {}
+    Info_3:
+      Name: tanks-albedo.normal-sd
+      Dependencies: {}
+    Info_4:
+      Name: tanks-albedo.normal-hd
+      Dependencies: {}
+    Info_5:
+      Name: tanks-albedo.desert-sd
+      Dependencies: {}
+    Info_6:
+      Name: sampleassets/mycube.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: sampleassets/testscene.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: sampleassets/tanks/prefabs/background.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: sampleassets/tanks/scenes/tanksexample.unity3d
+      Dependencies:
+        Dependency_0: tanks-albedo.normal-hd
+        Dependency_1: sampleassets/tanks/prefabs/background.unity3d
+    Info_10:
+      Name: sampleassets/tanks/variants/language/danish/canvas.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: sampleassets/tanks/variants/language/english/canvas.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: sampleassets/variants/variantscene.unity3d
+      Dependencies:
+        Dependency_0: variants/myassets.hd
